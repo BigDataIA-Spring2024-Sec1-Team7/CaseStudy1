@@ -20,6 +20,6 @@
 5. Tailor Your Terrain with Tags: Utilize tags for destinations based on terrain, helping you filter and find places that match your preferred landscapes and activities.
 
 ##### Codelab link 
-https://codelabs-preview.appspot.com/?file_id=1SNhpx5-0Dw-TVRiSDHoBThQ86IyHU__Kv9X29DvybkM#6
+https://codelabs-preview.appspot.com/?file_id=1SNhpx5-0Dw-TVRiSDHoBThQ86IyHU__Kv9X29DvybkM#0
 
 
